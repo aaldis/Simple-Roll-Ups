@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Where_Clause__c</fullName>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>SOQL query where clause to specify the records which should be used in the field.</inlineHelpText>
+    <label>Where Clause</label>
+    <length>32768</length>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>

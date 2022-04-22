@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Unique__c</fullName>
+    <defaultValue>false</defaultValue>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Check this box if the rollup should only count unique fields.</inlineHelpText>
+    <label>Unique</label>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,2 +1,2 @@
 # Simple-Roll-Ups
-Repository of useful code to accomplish simple tasks.  Can be reused repeatedly.
+SFDC Simple roll up structure that can be used repeatedly.
